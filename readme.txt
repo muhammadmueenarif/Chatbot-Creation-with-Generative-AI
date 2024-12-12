@@ -60,5 +60,10 @@ on the top, we have share button where we can copy the link of chatbot and use i
 integrate it. if we want to test it just paste it in new tab and test it. ask different questions and check 
 whether it is working correct or need changes. 
 
-
+Building from Scratch. 
+click on new agent. then fill basic info that discussed before. in training section, upload document. 
+in enter url, give url of website on which we want to train it. 
+if we want to setup in website, click on installation section in the left side and make it public and then 
+follow instructions to install it in the website. 
+we will have script tag, copy that code open header section of your website code and paste it there. 
 
