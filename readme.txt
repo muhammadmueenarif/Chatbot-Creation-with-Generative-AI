@@ -43,3 +43,22 @@ without technical knowledge.
 
 Popular No Code Chatbot Tools 
 Check image. 
+
+Building Chatbot From Scratch. 
+We will build chatbot with no code using simplified ai website. app.simplified.com/chatbot. 
+click on new agent button in top right to build new chatbot. give project name. It has credits. The credits 
+will be utilized on the base of usage of chatbot on our integrated website. 0/4000. 
+The first screen will be showing Title, subtitle, name of agent, welcome message, color of chatbot, widget.
+
+in left side section, we have integrate button by which we can integrate with fb, wa, insta, etc. 
+in training, we can upload file to train our chatbot on the given data. we can upload file here or give url, 
+crawl url or place our faqs here. 
+Or we can use create knowledge base option to create the knowledge and train the chatbot on that knowledge. 
+
+Building chatbot for Business Enquiries. 
+on the top, we have share button where we can copy the link of chatbot and use it in the website where we want to 
+integrate it. if we want to test it just paste it in new tab and test it. ask different questions and check 
+whether it is working correct or need changes. 
+
+
+
